@@ -1,4 +1,4 @@
-## Projeto Extra de Faltas
+# Projeto Extra de Faltas
 
 O Projeto Extra de Faltas tem como objetivo explicar o uso dos hiperparâmetros 'tau' e 'target_update_interval' no modelo DQN da biblioteca Stable Baselines3. Para isso, um breve estudo sobre os hiperparâmetros foi feito tendo como resultados as explicações abaixo e além disso, testes foram feitos para entender como esses hiperhiperparâmetros influenciam nos resultados dos modelos no ambiente [Lunar Lander](https://gymnasium.farama.org/environments/box2d/lunar_lander/).
 
